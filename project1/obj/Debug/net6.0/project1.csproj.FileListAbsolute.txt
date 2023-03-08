@@ -1,0 +1,12 @@
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.csproj.AssemblyReference.cache
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.AssemblyInfoInputs.cache
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.AssemblyInfo.cs
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.csproj.CoreCompileInputs.cache
+E:\vs2022\projects\project1\bin\Debug\net6.0\project1.deps.json
+E:\vs2022\projects\project1\bin\Debug\net6.0\project1.dll
+E:\vs2022\projects\project1\bin\Debug\net6.0\project1.pdb
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.dll
+E:\vs2022\projects\project1\obj\Debug\net6.0\refint\project1.dll
+E:\vs2022\projects\project1\obj\Debug\net6.0\project1.pdb
+E:\vs2022\projects\project1\obj\Debug\net6.0\ref\project1.dll
